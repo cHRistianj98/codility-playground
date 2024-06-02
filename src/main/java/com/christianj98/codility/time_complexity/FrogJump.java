@@ -1,4 +1,4 @@
-package com.vankof.main.time_complexity;
+package com.christianj98.codility.time_complexity;
 
 public class FrogJump {
 
